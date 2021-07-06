@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+	<title>Robot Base Control</title>
+</head>
+<body>
+
+
+
+<center>
+	<font color="white">
+	<h1>Control</h1>
+
+	<div class="container">
+ <div> <button type="button" class="buttonc"><a href="base.html">Robot Base </a></div> 
+</div>
+  
+	<div class="container">
+ <div> <button type="buttonc2" class="buttonc"><a href="arm.html">Robot Arm </a></div> 
+</div>
+  
+
+   
+
+	
+
+
+
+	
+
+ </center>
+<script>
+  window.watsonAssistantChatOptions = {
+      integrationID: "925f4750-9241-40d5-82e7-b4479eaf07f0", // The ID of this integration.
+      region: "eu-gb", // The region your integration is hosted in.
+      serviceInstanceID: "dc8085ed-db01-4dd5-987c-9361b051dc4f", // The ID of your service instance.
+      onLoad: function(instance) { instance.render(); }
+    };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+    document.head.appendChild(t);
+  });
+</script>
+
+</body>
+
+
+</html>

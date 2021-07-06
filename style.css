@@ -1,0 +1,327 @@
+
+*{
+  margin : 50;
+  padding : 50;
+}
+body {
+    height: 160vh;
+    background-color: #000;
+    font-family: poppins;
+    
+  letter-spacing: 5px;
+
+    background: linear-gradient(150deg,#DB302A 0%,#62186B 60%) no-repeat;
+}
+.container
+{
+position: 50px;
+top: 50%;
+left: 50%
+transform: translate(50%, 50%);
+}
+
+.runn
+{
+  position: center;
+  margin-top: 3px;
+  margin-left: -500px;
+  margin-bottom: 4px;
+  margin-right: -500px;
+  text-align: center;
+  width: 97px;
+  padding: 5px;
+  padding-right: 3px;
+  font-size: -15px;
+  color: #663838;
+  font-family: poppins;
+  font-weight: 400;
+  border: 5px solid #663838;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  cursor: pointer;
+  border-radius: 27px;
+  transition: 1.5s;
+}
+.runn: hover
+{
+  box-shadow: 0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee,
+  0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee;
+}
+.container
+{
+position: 50px;
+top: 50%;
+left: 50%
+transform: translate(50%, 50%);
+}
+
+.submitt
+{
+  position: center;
+  margin-top: 30px;
+  margin-left: -500px;
+  margin-bottom: 4px;
+  margin-right: -500px;
+  text-align: center;
+  width: 97px;
+  padding: 5px;
+  padding-right: 3px;
+  font-size: -15px;
+  color: #663838;
+  font-family: poppins;
+  font-weight: 400;
+  border: 5px solid #663838;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  cursor: pointer;
+  border-radius: 27px;
+  transition: 1.5s;
+}
+.submitt: hover
+{
+  box-shadow: 0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee,
+  0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee;
+}
+.container
+{
+position: 50px;
+top: 50%;
+left: 50%
+transform: translate(50%, 50%);
+}
+
+.buttonc
+{
+  position: center;
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-bottom: 4px;
+  margin-right: 26px;
+  text-align: center;
+  width: 97px;
+  padding: 5px;
+  padding-right: 3px;
+  font-size: -15px;
+  color: white;
+  font-family: poppins;
+  font-weight: 400;
+  border: 5px solid lightcoral;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  cursor: pointer;
+  border-radius: 27px;
+  transition: 1.5s;
+}
+.buttonc: hover
+{
+  box-shadow: 0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee,
+  0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee;
+}
+.container
+{
+position: 50px;
+top: 50%;
+left: 50%
+transform: translate(50%, 50%);
+}
+
+.buttonc2
+{
+  position: center;
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-bottom: 4px;
+  margin-right: 26px;
+  text-align: center;
+  width: 97px;
+  padding: 5px;
+  padding-right: 3px;
+  font-size: -15px;
+  color: white;
+  font-family: poppins;
+  font-weight: 400;
+  border: 5px solid lightcoral;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  cursor: pointer;
+  border-radius: 27px;
+  transition: 1.5s;
+}
+.buttonc2: hover
+{
+  box-shadow: 0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee,
+  0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee;
+}
+.container
+{
+position: 50px;
+top: 50%;
+left: 50%
+transform: translate(50%, 50%);
+}
+
+.button
+{
+  position: center;
+  margin-top: 193px;
+  margin-left: 473px;
+  margin-bottom: 43px;
+  margin-right: 114px;
+  text-align: center;
+  width: 97px;
+  padding: 20px;
+  padding-right: 4px;
+  font-size: -15px;
+  color: white;
+  font-family: poppins;
+  font-weight: 400;
+  border: 5px solid white;
+  text-transform: uppercase;
+  letter-spacing: 15px;
+  cursor: pointer;
+  border-radius: 100px;
+  transition: 1.5s;
+}
+.button: hover
+{
+  box-shadow: 0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee,
+  0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee;
+}
+.container
+{
+position: 50px;
+top: 50%;
+left: 50%
+transform: translate(50%, 50%);
+}
+
+.button2
+{
+  position: center;
+  margin-top: 31px;
+  margin-left: 416px;
+  margin-bottom: 75px;
+  margin-right: 4px;
+  text-align: center;
+  width: 97px;
+  padding: 20px;
+  padding-right: 118px;
+  font-size: -15px;
+  color: white;
+  font-family: poppins;
+  font-weight: 400;
+  border: 5px solid white;
+  text-transform: uppercase;
+  letter-spacing: 15px;
+  cursor: pointer;
+  border-radius: 100px;
+  transition: 1.5s;
+}
+.button2: hover
+{
+  box-shadow: 0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee,
+  0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee;
+}
+
+.container
+{
+position: 50px;
+top: 50%;
+left: 50%
+transform: translate(50%, 50%);
+}
+.button3
+{
+  position: center;
+  margin-top: -368px;
+  margin-left: 425px;
+  margin-bottom: 59px;
+  margin-right: 4px;
+  text-align: center;
+  width: 97px;
+  padding: 20px;
+  padding-right: 118px;
+  font-size: -15px;
+  color: white;
+  font-family: poppins;
+  font-weight: 400;
+  border: 5px solid white;
+  text-transform: uppercase;
+  letter-spacing: 15px;
+  cursor: pointer;
+  border-radius: 100px;
+  transition: 1.5s;
+}
+.button3: hover
+{
+  box-shadow: 0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee,
+  0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee;
+}
+.container
+{
+position: 50px;
+top: 50%;
+left: 50%
+transform: translate(50%, 50%);
+}
+.button4
+{
+  position: center;
+  margin-top: -1px;
+  margin-left: 258px;
+  margin-bottom: 59px;
+  margin-right: 4px;
+  text-align: center;
+  width: 97px;
+  padding: 20px;
+  padding-right: 21px;
+  font-size: -15px;
+  color: white;
+  font-family: poppins;
+  font-weight: 400;
+  border: 5px solid white;
+  text-transform: uppercase;
+  letter-spacing: 15px;
+  cursor: pointer;
+  border-radius: 100px;
+  transition: 1.5s;
+}
+.button4: hover
+{
+  box-shadow: 0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee,
+  0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee;
+}
+.container
+{
+position: 50px;
+top: 50%;
+left: 50%
+transform: translate(50%, 50%);
+}
+.button5
+{
+  position: center;
+  margin-top: -124px;
+  margin-left: 672px;
+  margin-bottom: 59px;
+  margin-right: -40px;
+  text-align: center;
+  width: 97px;
+  padding: 20px;
+  padding-right: 32px;
+  font-size: -15px;
+  color: white;
+  font-family: poppins;
+  font-weight: 400;
+  border: 5px solid white;
+  text-transform: uppercase;
+  letter-spacing: 15px;
+  cursor: pointer;
+  border-radius: 100px;
+  transition: 1.5s;
+}
+.button5: hover
+{
+  box-shadow: 0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee,
+  0 5px 50px 0 #15F4ee inset, 0 5px 50px 0 #15f4ee;
+}
